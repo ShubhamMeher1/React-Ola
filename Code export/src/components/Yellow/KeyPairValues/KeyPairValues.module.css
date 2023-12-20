@@ -1,0 +1,32 @@
+.root {
+  width: 155px;
+  height: min-content;
+  flex-direction: column;
+  gap: 4px;
+}
+._115KMH {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: ITC Avant Garde Gothic Std, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  text-align: end;
+  align-items: end;
+  flex-direction: column;
+}
+.tOPSpeed {
+  opacity: 0.5;
+  color: #fff;
+  font-size: 16px;
+  font-family: ITC Avant Garde Gothic Std, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  text-align: end;
+  align-items: end;
+  flex-direction: column;
+}
